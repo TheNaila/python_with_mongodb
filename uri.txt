@@ -1,1 +1,0 @@
-mongodb+srv://nthevenot:School2018senior@ios-todo-list.mg8tcx9.mongodb.net/?retryWrites=true&w=majority&appName=IOS-Todo-List
