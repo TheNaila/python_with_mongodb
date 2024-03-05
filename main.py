@@ -25,10 +25,6 @@ class DatabaseObject:
         return db
 
 
-
-
-
-
 obj = DatabaseObject()
 client = obj.connect_to_mongodb("uri.txt")
 db = obj.connect_to_database(client, "IOS-Todo-List")
